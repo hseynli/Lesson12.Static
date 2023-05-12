@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson12.Static\21.Nested\bin\Debug\net6.0\21.Nested.exe
+D:\Projects\VS Projects\Lesson12.Static\21.Nested\bin\Debug\net6.0\21.Nested.deps.json
+D:\Projects\VS Projects\Lesson12.Static\21.Nested\bin\Debug\net6.0\21.Nested.runtimeconfig.json
+D:\Projects\VS Projects\Lesson12.Static\21.Nested\bin\Debug\net6.0\21.Nested.dll
+D:\Projects\VS Projects\Lesson12.Static\21.Nested\bin\Debug\net6.0\21.Nested.pdb
+D:\Projects\VS Projects\Lesson12.Static\21.Nested\obj\Debug\net6.0\21.Nested.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson12.Static\21.Nested\obj\Debug\net6.0\21.Nested.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson12.Static\21.Nested\obj\Debug\net6.0\21.Nested.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson12.Static\21.Nested\obj\Debug\net6.0\21.Nested.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson12.Static\21.Nested\obj\Debug\net6.0\21.Nested.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson12.Static\21.Nested\obj\Debug\net6.0\21.Nested.dll
+D:\Projects\VS Projects\Lesson12.Static\21.Nested\obj\Debug\net6.0\refint\21.Nested.dll
+D:\Projects\VS Projects\Lesson12.Static\21.Nested\obj\Debug\net6.0\21.Nested.pdb
+D:\Projects\VS Projects\Lesson12.Static\21.Nested\obj\Debug\net6.0\21.Nested.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson12.Static\21.Nested\obj\Debug\net6.0\ref\21.Nested.dll

@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson12.Static\14.Extension\bin\Debug\net6.0\14.Extension.exe
+D:\Projects\VS Projects\Lesson12.Static\14.Extension\bin\Debug\net6.0\14.Extension.deps.json
+D:\Projects\VS Projects\Lesson12.Static\14.Extension\bin\Debug\net6.0\14.Extension.runtimeconfig.json
+D:\Projects\VS Projects\Lesson12.Static\14.Extension\bin\Debug\net6.0\14.Extension.dll
+D:\Projects\VS Projects\Lesson12.Static\14.Extension\bin\Debug\net6.0\14.Extension.pdb
+D:\Projects\VS Projects\Lesson12.Static\14.Extension\obj\Debug\net6.0\14.Extension.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson12.Static\14.Extension\obj\Debug\net6.0\14.Extension.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson12.Static\14.Extension\obj\Debug\net6.0\14.Extension.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson12.Static\14.Extension\obj\Debug\net6.0\14.Extension.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson12.Static\14.Extension\obj\Debug\net6.0\14.Extension.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson12.Static\14.Extension\obj\Debug\net6.0\14.Extension.dll
+D:\Projects\VS Projects\Lesson12.Static\14.Extension\obj\Debug\net6.0\refint\14.Extension.dll
+D:\Projects\VS Projects\Lesson12.Static\14.Extension\obj\Debug\net6.0\14.Extension.pdb
+D:\Projects\VS Projects\Lesson12.Static\14.Extension\obj\Debug\net6.0\14.Extension.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson12.Static\14.Extension\obj\Debug\net6.0\ref\14.Extension.dll

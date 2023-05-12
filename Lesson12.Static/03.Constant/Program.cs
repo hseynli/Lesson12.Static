@@ -1,0 +1,1 @@
+﻿Console.WriteLine("e = {0}", NotStaticClass.e);

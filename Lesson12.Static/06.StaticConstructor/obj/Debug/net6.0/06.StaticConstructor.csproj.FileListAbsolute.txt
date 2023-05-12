@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson12.Static\06.StaticConstructor\bin\Debug\net6.0\06.StaticConstructor.exe
+D:\Projects\VS Projects\Lesson12.Static\06.StaticConstructor\bin\Debug\net6.0\06.StaticConstructor.deps.json
+D:\Projects\VS Projects\Lesson12.Static\06.StaticConstructor\bin\Debug\net6.0\06.StaticConstructor.runtimeconfig.json
+D:\Projects\VS Projects\Lesson12.Static\06.StaticConstructor\bin\Debug\net6.0\06.StaticConstructor.dll
+D:\Projects\VS Projects\Lesson12.Static\06.StaticConstructor\bin\Debug\net6.0\06.StaticConstructor.pdb
+D:\Projects\VS Projects\Lesson12.Static\06.StaticConstructor\obj\Debug\net6.0\06.StaticConstructor.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson12.Static\06.StaticConstructor\obj\Debug\net6.0\06.StaticConstructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson12.Static\06.StaticConstructor\obj\Debug\net6.0\06.StaticConstructor.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson12.Static\06.StaticConstructor\obj\Debug\net6.0\06.StaticConstructor.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson12.Static\06.StaticConstructor\obj\Debug\net6.0\06.StaticConstructor.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson12.Static\06.StaticConstructor\obj\Debug\net6.0\06.StaticConstructor.dll
+D:\Projects\VS Projects\Lesson12.Static\06.StaticConstructor\obj\Debug\net6.0\refint\06.StaticConstructor.dll
+D:\Projects\VS Projects\Lesson12.Static\06.StaticConstructor\obj\Debug\net6.0\06.StaticConstructor.pdb
+D:\Projects\VS Projects\Lesson12.Static\06.StaticConstructor\obj\Debug\net6.0\06.StaticConstructor.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson12.Static\06.StaticConstructor\obj\Debug\net6.0\ref\06.StaticConstructor.dll

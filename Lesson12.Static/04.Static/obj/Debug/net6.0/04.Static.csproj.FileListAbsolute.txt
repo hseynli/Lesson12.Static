@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson12.Static\04.Static\bin\Debug\net6.0\04.Static.exe
+D:\Projects\VS Projects\Lesson12.Static\04.Static\bin\Debug\net6.0\04.Static.deps.json
+D:\Projects\VS Projects\Lesson12.Static\04.Static\bin\Debug\net6.0\04.Static.runtimeconfig.json
+D:\Projects\VS Projects\Lesson12.Static\04.Static\bin\Debug\net6.0\04.Static.dll
+D:\Projects\VS Projects\Lesson12.Static\04.Static\bin\Debug\net6.0\04.Static.pdb
+D:\Projects\VS Projects\Lesson12.Static\04.Static\obj\Debug\net6.0\04.Static.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson12.Static\04.Static\obj\Debug\net6.0\04.Static.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson12.Static\04.Static\obj\Debug\net6.0\04.Static.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson12.Static\04.Static\obj\Debug\net6.0\04.Static.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson12.Static\04.Static\obj\Debug\net6.0\04.Static.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson12.Static\04.Static\obj\Debug\net6.0\04.Static.dll
+D:\Projects\VS Projects\Lesson12.Static\04.Static\obj\Debug\net6.0\refint\04.Static.dll
+D:\Projects\VS Projects\Lesson12.Static\04.Static\obj\Debug\net6.0\04.Static.pdb
+D:\Projects\VS Projects\Lesson12.Static\04.Static\obj\Debug\net6.0\04.Static.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson12.Static\04.Static\obj\Debug\net6.0\ref\04.Static.dll

@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson12.Static\03.Constant\bin\Debug\net6.0\03.Constant.exe
+D:\Projects\VS Projects\Lesson12.Static\03.Constant\bin\Debug\net6.0\03.Constant.deps.json
+D:\Projects\VS Projects\Lesson12.Static\03.Constant\bin\Debug\net6.0\03.Constant.runtimeconfig.json
+D:\Projects\VS Projects\Lesson12.Static\03.Constant\bin\Debug\net6.0\03.Constant.dll
+D:\Projects\VS Projects\Lesson12.Static\03.Constant\bin\Debug\net6.0\03.Constant.pdb
+D:\Projects\VS Projects\Lesson12.Static\03.Constant\obj\Debug\net6.0\03.Constant.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson12.Static\03.Constant\obj\Debug\net6.0\03.Constant.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson12.Static\03.Constant\obj\Debug\net6.0\03.Constant.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson12.Static\03.Constant\obj\Debug\net6.0\03.Constant.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson12.Static\03.Constant\obj\Debug\net6.0\03.Constant.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson12.Static\03.Constant\obj\Debug\net6.0\03.Constant.dll
+D:\Projects\VS Projects\Lesson12.Static\03.Constant\obj\Debug\net6.0\refint\03.Constant.dll
+D:\Projects\VS Projects\Lesson12.Static\03.Constant\obj\Debug\net6.0\03.Constant.pdb
+D:\Projects\VS Projects\Lesson12.Static\03.Constant\obj\Debug\net6.0\03.Constant.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson12.Static\03.Constant\obj\Debug\net6.0\ref\03.Constant.dll
