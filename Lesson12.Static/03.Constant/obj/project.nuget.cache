@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fArF30tF+ODLvlYJQkkDWMMnIOH2zi8SVMo+UI73h7fMAVgLKSQuZogX+HKtFCcceMnHzmo52sbzj2kmg1iacw==",
+  "dgSpecHash": "lm99FwU5oLPrRQt77nIv75XjWYfdRJZDsNqUhcD8Venm8h3RJtaKBFLiDd5ulVCJ2kPXeR10QdXtvJjmMwQ2hQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\VS Projects\\Lesson12.Static\\03.Constant\\03.Constant.csproj",
+  "projectFilePath": "E:\\Projects\\VsProjects\\Lesson12.Static\\Lesson12.Static\\03.Constant\\03.Constant.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
